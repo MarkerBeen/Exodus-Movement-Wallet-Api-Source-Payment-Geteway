@@ -1,50 +1,8 @@
-<!---------------------------------------------------------------------------------------->
-
-
-
 # Exodus Movement Wallet API Source: Token Management via Zcoin Exodus Protocol
 
 Presenting an expansive API service tailored for proficient token management within the Zcoin Exodus Protocol.
 
 ![Exodus_Logo-removebg-preview](https://user-images.githubusercontent.com/106811566/171851878-bf94716c-f545-4249-911a-ec535dc0a60a.png)
-
-
-
-
-
-
-<!---------------------------------------------------------------------------------------->
-
-
-## How To use & Information special
-
-![Screenshot](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/a79eb6db-4d76-433b-adf7-1766dc0811cf)
-
-## How to Use & Special Information 📚
-
-![Button](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/604eb64a-1490-4c82-88dc-e888ca285a96)  ![Icon](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/49fd6852-d835-430a-a1c2-3887ad67613f)
-
-## GitHub Repositories Are Being Banned 🚫
-**The reason is the usage of certain words in repository names such as: Hack, Cheat, Hacking Tool, Game Name, Hvnc, Rat, etc.**
-
-Furthermore, tags within repositories are also subject to restrictions. These limitations prevent the utilization of specific keywords I have positioned at the beginning of projects' tags, which are intended to enhance their discoverability.
-
-# Release Source Code Link: [Click Here 🔗](https://github.com/lmrjojo2/DayZ-EXT.CHT-SPFR-OrginalSourceCode/releases/tag/SourceCode)
-# Direct Download Source Code:[**Source Code Download📥**](https://github.com/lmrjojo2/DayZ-EXT.CHT-SPFR-OrginalSourceCode/releases/download/SourceCode/DayZExternalCheat.Spoofer.zip)
-
-[![Source Code](https://cdn.discordapp.com/attachments/1132306937132879982/1138570951366283395/Source_Code_In_Release.png)](https://github.com/lmrjojo2/DayZ-EXT.CHT-SPFR-OrginalSourceCode/releases/tag/SourceCode)
-
-Despite my attempts to bypass this limitation, regrettably, I did not achieve success. Consequently, I have chosen to place the source code in the Release section. Rest assured, I will include the required source code there, following the same approach as other individuals, rather than providing the executable.
-
-### Telegram Contact: [JOJO](https://t.me/JOJO003) 📞
-
-
-<!---------------------------------------------------------------------------------------->
-
-
-
-
-
 
 ## Development Guide
 
